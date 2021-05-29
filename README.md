@@ -12,5 +12,6 @@
 
 
 To run the code globally enter these commands in terminal 
+
 💨 npm init -y
 💨 npm link
